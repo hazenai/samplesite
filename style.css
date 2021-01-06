@@ -1,0 +1,13 @@
+#container{
+	width: 100vw;
+	height: 100vh;
+	background-color: #000000;
+	position: absolute;
+}
+#text{
+	color: #FFFFFF;
+	text-align: center;
+	position: relative;
+	font-size: 50px;
+	top: 50vh;
+}
